@@ -5,15 +5,11 @@
 [![Issues][issues-shield]][issues-url]
 
 [![HTML5][html5-shield]][html5-url]
-
 [![CSS3][css3-shield]][css3-url]
-
 [![JAVASCRIPT][js-shield]][js-url]
-
 [![FIGMA][figma-shield]][figma-url]
 
 [![CHINGU][chingu-shield]][chingu-url]
-
 ![2021][2021-shield]
 
 <br>
